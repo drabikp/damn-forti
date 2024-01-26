@@ -3,7 +3,7 @@
 # Define VPN host and cookie file path
 VPN_HOST="vpn.example.com"
 COOKIE_FILE="$HOME/.config/fortivpn/cookie"
-TRUSTED_CERT=""
+TRUSTED_CERT="sample-value"
 
 # Function to connect to VPN
 connect_vpn() {
