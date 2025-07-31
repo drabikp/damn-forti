@@ -1,4 +1,7 @@
 # damn-forti
+
+*Retired* - `sudo openfortivpn fortivpn.posam.sk:443 --saml-login --use-resolvconf=0` is enough now :)
+
 Simple SAML login script for FortiVPN. 
 Heavily inspired by [fuckForticlient](https://github.com/nonamed01/fuckForticlient)'s attitude. 
 
